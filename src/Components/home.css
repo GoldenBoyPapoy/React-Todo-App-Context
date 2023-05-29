@@ -1,0 +1,23 @@
+main{
+    padding-top: 10px;
+}
+.butn
+{
+    color: white;
+    background: cornflowerblue;
+    padding: 10px 40px;
+    margin: 10px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.newTodo {
+    margin-left: 50px;
+    text-align: center;
+}
+.newTodo input{
+    width: 30%;
+    border-radius: 5px;
+    border-color: white;
+    height: 35px;
+} 
